@@ -26,7 +26,7 @@ How to compile the repo (Visual studio 2019, Windows)
 
 ---
 
-Features and todos:
+Features:
 
 - [x] Loading .obj Models (with materials)
 - [x] Loading .mtl Materials (just the materials)
@@ -37,7 +37,7 @@ Features and todos:
 - [x] Phisically based materials
 - [x] Sky box (can load many formats)
 - [x] Image based lighting
-- [x] Light sub scattering for IBL as described here http://jcgt.org/published/0008/01/03/
+- [x] Light sub scattering for IBL 
 - [x] Screen space reflections
 - [ ] Environment probes
 ---
